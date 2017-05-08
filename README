@@ -1,0 +1,8 @@
+step1:配置虚拟环境
+virtualenv venv
+
+step2:启用虚拟环境
+source venv/bin/activate
+
+step3:安装Django及其他
+pip install -r requirements.txt
